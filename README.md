@@ -1,4 +1,22 @@
-# shadcn-docs-nuxt Minimal Starter
+# shadcn-docs-nuxt Minimal Starter - stackblitz deploy fork
+
+"**[shadcn-docs](https://shadcn-docs-nuxt.vercel.app/): Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. [Open Source](https://github.com/ZTL-UwU/shadcn-docs-nuxt)**."
+
+forked from https://github.com/ZTL-UwU/shadcn-docs-nuxt-starter
+
+minor changes in install & build process to make stackblitz happy
+
+this forks' repo: https://github.com/100ideas/shadcn-docs-nuxt-starter-stackblitz
+
+[![Open in Stackbitz Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/100ideas/shadcn-docs-nuxt-starter-stackblitz)
+
+or use the older stackblitz ide: https://stackblitz.com/edit/shadcn-docs-nuxt-starter-stackblitz
+
+see more details in [README-stackblitz.md](/README-stackblitz.md)
+
+---
+
+# shadcn-docs-nuxt Minimal Starter (original readme below)
 
 Starter template for [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
 
